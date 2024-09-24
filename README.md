@@ -5,3 +5,4 @@ Websites:
 1. https://www.3blue1brown.com/ : Mathematics related stuff
 2. https://www.leioslabs.com/ : Mathematics and CS related stuff
 3. https://mindgrasp.ai/ : AI tool for studies and lecture summary
+4. https://gonitsora.com/ : Thoughts, stories and ideas in Mathematics and Science.
