@@ -7,3 +7,4 @@ Websites:
 3. https://mindgrasp.ai/ : AI tool for studies and lecture summary
 4. https://www.welchlabs.com/ : Mathematics stuff
 5. https://gonitsora.com/ : Thoughts, stories and ideas in Mathematics and Science.
+6. https://bookdown.org/dereksonderegger/571/ : A book on Statistical Methods
