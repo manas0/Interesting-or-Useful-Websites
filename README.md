@@ -13,3 +13,4 @@ Websites:
 9. https://jeffhuang.com/computer-science-open-data/: Computer Science University Rankings
 10. https://www.wemakescholars.com/scholarship?nationality=64&country=169-150-116-88-142-144-168&study=3-4-6-7-8-9-11&interest=10-11-12-13-14-15-16-53-19-24-56-25-26-27-28-29-1-2-3-4-5-6-7-8-9-40-41-49-34-51-52 : Scholarships for higher studies
 11. chrome://discards : Information about all tabs opened in chrome
+12. https://docs.google.com/spreadsheets/d/1qU72vZnYjTRWdVpM8vhkf7zVwmzwV3hSFQZ_4tc096I/edit?gid=0#gid=0 : Scholarships for higher studies
