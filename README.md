@@ -14,3 +14,11 @@ Websites:
 10. https://www.wemakescholars.com/scholarship?nationality=64&country=169-150-116-88-142-144-168&study=3-4-6-7-8-9-11&interest=10-11-12-13-14-15-16-53-19-24-56-25-26-27-28-29-1-2-3-4-5-6-7-8-9-40-41-49-34-51-52 : Scholarships for higher studies
 11. chrome://discards : Information about all tabs opened in chrome
 12. https://docs.google.com/spreadsheets/d/1qU72vZnYjTRWdVpM8vhkf7zVwmzwV3hSFQZ_4tc096I/edit?gid=0#gid=0 : Scholarships for higher studies
+13. https://www.kcmet.org/what-we-do-Scholarship-Grants.aspx : KC Mahindra Scholarship for higher studies
+14. https://the.akdn/en/what-we-do/developing-human-capacity/education/international-scholarships : Scholarships
+15. https://www.aeccglobal.in/study-abroad/usa/scholarships : Scholarships
+16. https://www.kanan.co/blog/scholarships-for-indian-students-in-usa/ : Scholarships for higher studies
+17. https://www.global-opportunities.net/usa-scholarships-for-indian-students/: Scholarships
+18. https://timesofindia.indiatimes.com/education/study-abroad/usa/explore-lesser-known-scholarships-for-indian-students-aspiring-to-study-in-usa/articleshow/103134943.cms : Scholarships
+19. https://www.gyandhan.com/blogs/ms-in-us-scholarships-for-indian-students#c : Scholarships
+20. https://www.quora.com/How-can-I-get-scholarships-for-studying-in-the-US-if-Im-an-Indian-international-student : Scholarships
