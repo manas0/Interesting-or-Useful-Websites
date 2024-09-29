@@ -23,3 +23,11 @@ Websites:
 19. https://www.gyandhan.com/blogs/ms-in-us-scholarships-for-indian-students#c : Scholarships
 20. https://www.quora.com/How-can-I-get-scholarships-for-studying-in-the-US-if-Im-an-Indian-international-student : Scholarships
 21. https://www.gutenberg.org/cache/epub/58881/pg58881-images.html : Book on Probability
+22. https://ncase.me/trust/ : Game Theory
+23. https://ncase.me/ : Math and CS related stuff
+24. https://radiolab.org/podcast/104010-one-good-deed-deserves-another : Podcast on game theory
+25. https://plato.stanford.edu/entries/prisoner-dilemma/#Aca : Prisoner's Dilemma (Game Theory)
+26. https://explorabl.es/all/ : Interesting math, science, CS related stuff
+27. https://dl.acm.org/doi/10.1007/978-3-031-17433-9_2 : FUTURE cipher paper
+28. https://cp-algorithms.com/ : Algorithms for competitive programming
+29.  https://www.freecodecamp.org/ : Learn web development and related CS concepts
