@@ -32,3 +32,4 @@ Websites:
 28. https://cp-algorithms.com/ : Algorithms for competitive programming
 29.  https://www.freecodecamp.org/ : Learn web development and related CS concepts
 30.  https://www.kaggle.com/ : Machine Learning and Data Science competitions and learning
+31.  https://hacktoberfest.com/ : Open Source contribution challenge
