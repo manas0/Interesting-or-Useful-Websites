@@ -33,3 +33,4 @@ Websites:
 29.  https://www.freecodecamp.org/ : Learn web development and related CS concepts
 30.  https://www.kaggle.com/ : Machine Learning and Data Science competitions and learning
 31.  https://hacktoberfest.com/ : Open Source contribution challenge
+32.  https://github.com/gurugio/lowlevelprogramming-university : Low level university github page
