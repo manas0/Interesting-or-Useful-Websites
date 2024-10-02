@@ -35,3 +35,11 @@ Websites:
 31.  https://hacktoberfest.com/ : Open Source contribution challenge
 32.  https://github.com/gurugio/lowlevelprogramming-university : Low level university github page
 33.  https://github.com/jwasham/coding-interview-university : Coding interview university github page
+34.  https://roadmap.sh/computer-science : Computer Science roadmap
+35.  https://www.youtube.com/watch?v=oeYBdghaIjc : CMU Databases Systems Course
+36.  https://ocw.mit.edu/ : MIT OpenCourseWare
+37.  https://ocw.mit.edu/courses/18-650-statistics-for-applications-fall-2016/pages/syllabus/ : MIT OCW Statistics
+38.  https://docs.google.com/document/d/1Y_7iCg757JdDMtXI2EbqmnGtH5Pd6vFu4NkDCILHLO0/edit?pli=1 : Compiler Optimisations
+39.  https://github.com/zoq/arxiv-updates/issues/523 : Some github thing
+40.  https://web.evanchen.cc/coursework.html : Mathematics related stuff
+41.  https://docs.google.com/spreadsheets/d/12U2mJmjtFkubtj8AylN2V5wmp_EtCaO23iPFMwWmXlw/edit?gid=0#gid=0 : Coding related stuff
