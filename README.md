@@ -43,3 +43,4 @@ Websites:
 39.  https://github.com/zoq/arxiv-updates/issues/523 : Some github thing
 40.  https://web.evanchen.cc/coursework.html : Mathematics related stuff
 41.  https://docs.google.com/spreadsheets/d/12U2mJmjtFkubtj8AylN2V5wmp_EtCaO23iPFMwWmXlw/edit?gid=0#gid=0 : Coding related stuff
+42.  https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78 : Face recognition
