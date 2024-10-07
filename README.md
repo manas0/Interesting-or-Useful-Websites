@@ -46,3 +46,4 @@ Websites:
 42.  https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78 : Face recognition
 43.  https://econweb.ucsd.edu/~jsobel/172aw02/notes9.pdf : Game Theory
 44.  https://blog.computationalcomplexity.org/2009/08/rump-sessions-at-conferences_11.html#:~:text=The%20Complexity%20Conference%20has%20almost,what%20they%20are%20working%20on : Computational Complexity stuff
+45.  https://github.com/dtbinh/OpenCourse/blob/master/AbstractAlgebra/Contemporary%20Abstract%20Algebra%209th%20Joseph%20A.%20Gallian.pdf : Github repository for some learning stuff like books
