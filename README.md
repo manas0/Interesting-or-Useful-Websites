@@ -48,3 +48,4 @@ Websites:
 44.  https://blog.computationalcomplexity.org/2009/08/rump-sessions-at-conferences_11.html#:~:text=The%20Complexity%20Conference%20has%20almost,what%20they%20are%20working%20on : Computational Complexity stuff
 45.  https://github.com/dtbinh/OpenCourse/blob/master/AbstractAlgebra/Contemporary%20Abstract%20Algebra%209th%20Joseph%20A.%20Gallian.pdf : Github repository for some learning stuff like books
 46.  https://www.theguardian.com/lifeandstyle/2024/apr/27/like-father-like-son-the-complex-factors-that-shape-a-parents-influence-on-their-child?utm_source=pocket-newtab-en-intl : Article on hereditary
+47.  https://cipherleaks.com/ : Attack on some cipher
