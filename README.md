@@ -49,3 +49,4 @@ Websites:
 45.  https://github.com/dtbinh/OpenCourse/blob/master/AbstractAlgebra/Contemporary%20Abstract%20Algebra%209th%20Joseph%20A.%20Gallian.pdf : Github repository for some learning stuff like books
 46.  https://www.theguardian.com/lifeandstyle/2024/apr/27/like-father-like-son-the-complex-factors-that-shape-a-parents-influence-on-their-child?utm_source=pocket-newtab-en-intl : Article on hereditary
 47.  https://cipherleaks.com/ : Attack on some cipher
+48.  https://www.mindvalley.com/ultramind/sales/ctl9?utm_source=google-paid&utm_source=google-paid&utm_medium=ocpm&otag=%5Bgg-ads%5D-%5Bvsl%5D-%5B19328511278%5D-%5B141502103701%5D-%5B654355558220%5D-%5Bsums%5D&gclid=CjwKCAjwuJ2xBhA3EiwAMVjkVO6bpVTw2y_KG94hcJtv-ga2YCCwccWtaI8pN9AasRlr1NAaFi189BoC42QQAvD_BwE : Silva Ultramind system
